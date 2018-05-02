@@ -4,7 +4,7 @@
 	"description": "Run commands when a file is saved in Terminal (add wsl path)",
 	"icon": "images/icon.png",
 	"version": "0.0.18",
-	"publisher": "rais",
+	"publisher": "raiscui",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/rais/vscode-save-and-run"
