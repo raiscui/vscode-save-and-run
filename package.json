@@ -1,9 +1,9 @@
 {
-	"name": "save-and-run",
+	"name": "save-and-run-wsl",
 	"displayName": "Save and Run",
-	"description": "Run commands when a file is saved in Terminal",
+	"description": "Run commands when a file is saved in Terminal (add wsl path)",
 	"icon": "images/icon.png",
-	"version": "0.0.17",
+	"version": "0.0.18",
 	"publisher": "rais",
 	"repository": {
 		"type": "git",
