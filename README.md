@@ -1,3 +1,4 @@
+# add wsl
 ## Run saved file in Terminal
 
 Fork from [vscode-runonsave](https://github.com/emeraldwalk/vscode-runonsave)
